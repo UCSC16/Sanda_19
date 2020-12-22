@@ -1,2 +1,4 @@
 Hello This is my file 
 I'm Aamir ali
+I'm going home
+Hello new command
